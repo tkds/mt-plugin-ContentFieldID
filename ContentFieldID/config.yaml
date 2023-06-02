@@ -1,0 +1,12 @@
+id: ContentFieldID
+name: ContentFieldID
+version: 1.0
+description: <__trans phrase="_PLUGIN_DESCRIPTION">
+author_name: <__trans phrase="_PLUGIN_AUTHOR">
+author_link: https://github.com/tkds/mt-plugin-ContentFieldID
+doc_link: https://github.com/tkds/mt-plugin-ContentFieldID
+l10n_class: ContentFieldID::L10N
+
+tags:
+    function:
+        ContentFieldID: $ContentFieldID::ContentFieldID::Tags::_hdlr_contentfieldid
